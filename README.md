@@ -71,7 +71,7 @@
 <p align="center">
   <strong>
     <span style="color:#E53E3E; animation: blinker 1s linear infinite;">
-      🦇 Code by day, debug by night—channel your inner Batman and make coding a superpower! ⚡
+      🦇 Code by day, debug by night — unleash your inner superhero! ⚡
     </span>
   </strong>
 </p>
