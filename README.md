@@ -57,6 +57,7 @@
 |------|-------------|
 | [📊 airflow-dags](https://github.com/alexntelifilippidis/airflow) | Production-ready Apache Airflow DAGs — battle-tested with automated tests & CI/CD magic ⚙️🚀 |
 | [🌌 force-fetcher-cli](https://github.com/alexntelifilippidis/force-fetcher-cli) | A Star Wars–powered CLI that pulls data from a galaxy far, far away. May the fetch be with you. ✨🛸 |
+| [🦸‍♂️ loggerman]([https://github.com/alexntelifilippidis/Loggerman]) | A colorful, emoji-powered Python logger with Singleton superpowers — make your logs fun, readable, and heroic! 🌈🔥 |
 
 ---
 
